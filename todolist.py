@@ -14,7 +14,7 @@ def deleteTask():
     
 ws = Tk()
 ws.geometry('800x750+300+70')
-ws.title('PythonGuides')
+ws.title('Python Daily Work')
 ws.config(bg='#4863A0')
 ws.resizable(width=False, height=False)
 
